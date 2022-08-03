@@ -166,7 +166,7 @@
 				</div>
 
 				<!-- Contact -->
-				<a href="https://github.com/izzul-ali">
+				<a href="https://github.com/izzul-ali/shop-app">
 					<div class="flex items-center space-x-2 absolute bottom-5 text-sm w-fit p-1">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
